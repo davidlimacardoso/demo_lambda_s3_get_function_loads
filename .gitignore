@@ -1,0 +1,10 @@
+#ignore variables.tf
+variables.tf
+
+.terraform/*
+
+.terraform.lock.hcl
+
+terraform.tfstate
+
+terraform.tfstate.backup
